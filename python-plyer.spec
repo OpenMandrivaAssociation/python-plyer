@@ -3,7 +3,7 @@
 Summary:	A platform-independent Python wrapper for platform-dependent APIs
 Name:		python-%{module}
 Version:	2.1.0
-Release:	1
+Release:	2
 License:	Expat
 Url:		https://plyer.readthedocs.io
 Group:		Development/Languages/Python
